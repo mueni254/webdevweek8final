@@ -30,6 +30,12 @@ body {
     z-index: -1;
     background-color: #001d3d;
   }
+
+  footer {
+  position: relative;
+  z-index: 1;
+}
+
   
   @media (max-width: 576px) {
     .card {
