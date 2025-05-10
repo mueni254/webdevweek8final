@@ -23,7 +23,6 @@ The portfolio is a multipage responsive website built using HTML, CSS, JavaScrip
 ## 📂 Folder Structure
 
 portfolio-website/
-│
 ├── index.html # Main portfolio page
 ├── blog.html # Blog page
 ├── css
